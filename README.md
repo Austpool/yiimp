@@ -1,8 +1,10 @@
-### Welcome to the cryptopool.builders github!
+Note:  Austpool's Version
+
+### Welcome to the Austpool Version of cryptopool.builders server installer!
 ### This fork of YiiMP is designed to work with our Ultimate Crypto-Server Installer program.
 Trying to install this on a server not built by our installer will cause headaches, frustrations, and screaming loudly at your monitor.
 
-#### Please go to https://github.com/cryptopool-builders/Multi-Pool-Installer for our installer.
+#### Please go to https://github.com/Austpool/Multi-Pool-Installer for our installer.
 
 ## Changes to this fork include but not limited to:
 
